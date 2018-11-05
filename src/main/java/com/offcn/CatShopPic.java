@@ -164,5 +164,8 @@ public class CatShopPic {
 			
 			
 		}
+		public void www(){
+			System.out.println("112121");
+		}
 
 }
