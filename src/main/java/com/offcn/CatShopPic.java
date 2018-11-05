@@ -22,6 +22,12 @@ import org.jsoup.select.Elements;
 
 import com.offcn.po.product;
 
+/**
+ * 
+ * asdkjs
+ * @author Administrator
+ *
+ */
 public class CatShopPic {
 
 	public static void main(String[] args) {
@@ -60,6 +66,7 @@ public class CatShopPic {
 				html=EntityUtils.toString(entity, "utf-8");
 				
 			}
+			
 			
 		
 		} catch (ClientProtocolException e) {
